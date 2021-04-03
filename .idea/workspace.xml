@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f4dee00-e403-4a22-a0ca-b0ca06214005" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Задачи на условия и окна.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js_lessons.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_lessons.js" afterDir="false" />
     </list>
@@ -26,6 +27,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OpenServer\domains\localhost\fff\js" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -35,7 +42,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617264190802</updated>
-      <workItem from="1617264191974" duration="4924000" />
+      <workItem from="1617264191974" duration="8522000" />
+      <workItem from="1617444745685" duration="2632000" />
     </task>
     <task id="LOCAL-00001" summary="Объявление строковых и числовых переменных. Вывод в консоль">
       <created>1617265721040</created>
@@ -44,7 +52,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617265721040</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Работа с диалоговыми окнами на JavaScript">
+      <created>1617269248917</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617269248917</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Презентация по основам JavaScript. Начало работы,строки и числа, диалоговые окна alert, confirm, prompt">
+      <created>1617269785039</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617269785039</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -52,13 +74,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Объявление строковых и числовых переменных. Вывод в консоль" />
-    <option name="LAST_COMMIT_MESSAGE" value="Объявление строковых и числовых переменных. Вывод в консоль" />
+    <MESSAGE value="Работа с диалоговыми окнами на JavaScript" />
+    <MESSAGE value="Презентация по основам JavaScript. Начало работы,строки и числа, диалоговые окна alert, confirm, prompt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Презентация по основам JavaScript. Начало работы,строки и числа, диалоговые окна alert, confirm, prompt" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2505" y="86" key="CommitChangelistDialog2" timestamp="1617265719720">
+    <state x="2505" y="86" key="CommitChangelistDialog2" timestamp="1617269783925">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2505" y="86" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617265719720" />
+    <state x="2505" y="86" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617269783925" />
     <state x="2704" y="440" key="Github.CreateGistDialog" timestamp="1617265302958">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -71,9 +95,13 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2697" y="215" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617265424219" />
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1617265785703">
+    <state x="2381" y="165" key="SettingsEditor" timestamp="1617444775236">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617265785703" />
+    <state x="2381" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617444775236" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1617269787080">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617269787080" />
   </component>
 </project>
