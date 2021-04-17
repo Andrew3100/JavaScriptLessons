@@ -1,27 +1,11 @@
 
-let a = prompt('Первая строка')
-let b = prompt('Вторая строка')
+let a = prompt('Предложение')
 
-let k = a.length;
-let k1 = b.length;
+let string = a.split(' ');
 
-console.log(k)
-console.log(k1)
-
-if (k>k1) {
-    alert('Строка 1 больше строки 2');
+for (let i = 0; i<string.length; i++) {
+    alert(string[i]);
 }
-else {
-    if (k==k1)
-    {
-        alert('Строка 1 равна строке 2')
-    }
-    else {
-        alert('Строка 1 меньше строки 2')
-    }
-
-}
-
 
 
 
