@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f4dee00-e403-4a22-a0ca-b0ca06214005" name="Default Changelist" comment="Сделал разбора задачи №3 на">
+    <list default="true" id="8f4dee00-e403-4a22-a0ca-b0ca06214005" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/iterations/for.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js_lessons.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_lessons.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/htdocs/jc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -50,9 +52,7 @@
       <workItem from="1617264191974" duration="8522000" />
       <workItem from="1617444745685" duration="2632000" />
       <workItem from="1618488864097" duration="264000" />
-      <workItem from="1618492865734" duration="6120000" />
-      <workItem from="1618509859040" duration="1889000" />
-      <workItem from="1618648760854" duration="4280000" />
+      <workItem from="1618492865734" duration="5985000" />
     </task>
     <task id="LOCAL-00001" summary="Объявление строковых и числовых переменных. Вывод в консоль">
       <created>1617265721040</created>
@@ -75,14 +75,7 @@
       <option name="project" value="LOCAL" />
       <updated>1617269785039</updated>
     </task>
-    <task id="LOCAL-00004" summary="Сделал разбора задачи №3 на условия">
-      <created>1618502499709</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1618502499709</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +97,6 @@
     <MESSAGE value="Объявление строковых и числовых переменных. Вывод в консоль" />
     <MESSAGE value="Работа с диалоговыми окнами на JavaScript" />
     <MESSAGE value="Презентация по основам JavaScript. Начало работы,строки и числа, диалоговые окна alert, confirm, prompt" />
-    <MESSAGE value="Сделал разбора задачи №3 на условия" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделал разбора задачи №3 на условия" />
+    <option name="LAST_COMMIT_MESSAGE" value="Презентация по основам JavaScript. Начало работы,строки и числа, диалоговые окна alert, confirm, prompt" />
   </component>
 </project>
