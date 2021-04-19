@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f4dee00-e403-4a22-a0ca-b0ca06214005" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/iterations/for.js" afterDir="false" />
+    <list default="true" id="8f4dee00-e403-4a22-a0ca-b0ca06214005" name="Default Changelist" comment="Презентация по основам JavaScript. Начало работы,строки и числа, диалоговые окна alert, confirm, prompt">
+      <change afterPath="$PROJECT_DIR$/Циклы/parameter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклы/post_condition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклы/pre_condition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Циклы/Задачи циклы.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js_lessons.js" beforeDir="false" afterPath="$PROJECT_DIR$/js_lessons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Циклы/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Циклы/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Циклы/Введение в JavaScript.pptx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,18 +29,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Циклы" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
-    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OpenServer\domains\localhost\fff\js\Циклы" />
       <recent name="D:\OpenServer\domains\localhost\fff\js" />
     </key>
   </component>
@@ -51,8 +55,6 @@
       <updated>1617264190802</updated>
       <workItem from="1617264191974" duration="8522000" />
       <workItem from="1617444745685" duration="2632000" />
-      <workItem from="1618488864097" duration="264000" />
-      <workItem from="1618492865734" duration="5985000" />
     </task>
     <task id="LOCAL-00001" summary="Объявление строковых и числовых переменных. Вывод в консоль">
       <created>1617265721040</created>
@@ -81,22 +83,36 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Объявление строковых и числовых переменных. Вывод в консоль" />
     <MESSAGE value="Работа с диалоговыми окнами на JavaScript" />
     <MESSAGE value="Презентация по основам JavaScript. Начало работы,строки и числа, диалоговые окна alert, confirm, prompt" />
     <option name="LAST_COMMIT_MESSAGE" value="Презентация по основам JavaScript. Начало работы,строки и числа, диалоговые окна alert, confirm, prompt" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2505" y="86" key="CommitChangelistDialog2" timestamp="1618834466327">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2505" y="86" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618834466327" />
+    <state x="2704" y="440" key="Github.CreateGistDialog" timestamp="1617265302958">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2704" y="440" key="Github.CreateGistDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617265302958" />
+    <state x="2758" y="418" width="841" height="204" key="Github.ShareDialog" timestamp="1617265416220">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2758" y="418" width="841" height="204" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617265416220" />
+    <state x="2697" y="215" key="Github.UntrackedFilesDialog" timestamp="1617265424219">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2697" y="215" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617265424219" />
+    <state x="2381" y="165" key="SettingsEditor" timestamp="1617444775236">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617444775236" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1617269787080">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617269787080" />
   </component>
 </project>
