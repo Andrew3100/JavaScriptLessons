@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f4dee00-e403-4a22-a0ca-b0ca06214005" name="Default Changelist" comment="Задача на поиск трёхзначного элемента">
-      <change afterPath="$PROJECT_DIR$/Массивы/Задачи на массивы.docx" afterDir="false" />
+    <list default="true" id="8f4dee00-e403-4a22-a0ca-b0ca06214005" name="Default Changelist" comment="Материалы по массивам">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Массивы/js_lessons.js" beforeDir="false" afterPath="$PROJECT_DIR$/Массивы/js_lessons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Массивы/Введение в JavaScript.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Массивы/массивы.pptx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618849449387</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Материалы по массивам">
+      <created>1619622868392</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619622868392</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +122,7 @@
     <MESSAGE value="Работа с диалоговыми окнами на JavaScript" />
     <MESSAGE value="Презентация по основам JavaScript. Начало работы,строки и числа, диалоговые окна alert, confirm, prompt" />
     <MESSAGE value="Разбор задачи на циклы №2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Разбор задачи на циклы №2" />
+    <MESSAGE value="Материалы по массивам" />
+    <option name="LAST_COMMIT_MESSAGE" value="Материалы по массивам" />
   </component>
 </project>
